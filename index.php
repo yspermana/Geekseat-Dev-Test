@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Geekseet Developer Technical Test</title>
+	<title>Geekseat Developer Technical Test</title>
 
 	<!-- Bootstrap CSS -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
@@ -15,7 +15,7 @@
 	<div class="container py-5">
 		<div class="row justify-content-center">
 			<div class="col-md-6">
-				<h2 class="text-center">Geekseet Developer Technical Test</h2>
+				<h2 class="text-center">Geekseat Developer Technical Test</h2>
 				<form class="row mt-5" action="index.php" method="GET">
 					<div class="col-md-12">
 						<h5>Person A</h5>
